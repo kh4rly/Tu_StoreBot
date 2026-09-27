@@ -1,9 +1,124 @@
-[deepseek_text_20260927_47baab.txt](https://github.com/user-attachments/files/32706602/deepseek_text_20260927_47baab.txt)
+[deepseek_markdown_20260927_55bb0c.md](https://github.com/user-attachments/files/32706729/deepseek_markdown_20260927_55bb0c.md)
+# 🤖 Directorio de Bots Telegram
 
+**Descubre, publica y promociona los mejores bots de Telegram**
 
-### Paso 4 · Sube al Top
-Destaca tu bot en los primeros puestos de su categoría.
-Pulsa **⭐ Subir al Top** en tu publicación y sigue las instrucciones.
+🚀 **Abrir el bot:** https://t.me/Tu_Storebot
+
+---
+
+## 🌟 ¿Qué es este bot?
+
+El **Directorio de Bots** es un bot de Telegram que funciona como un **catálogo público** donde cualquier persona puede:
+
+- **Buscar** bots útiles organizados por categorías.
+- **Publicar** su propio bot gratis en menos de un minuto.
+- **Promocionar** sus publicaciones para que más gente las vea.
+- **Contactar** directamente con el administrador para dudas o soporte.
+
+Todo desde un mismo bot, sin instalar nada ni registrarse en webs externas.
+
+---
+
+## ✨ Funciones disponibles
+
+### 🔍 Explorar el directorio
+
+Navega por un catálogo organizado por temáticas. Cada publicación tiene:
+
+- **Foto de portada** para identificar el bot rápidamente.
+- **Título** corto y descriptivo.
+- **Descripción** con toda la información útil.
+- **Categoría** a la que pertenece.
+- **Botón 🚀 Abrir Bot** para acceder con un solo clic.
+
+Los bots **destacados** aparecen siempre fijados en la parte superior de su categoría.
+
+### 📂 Categorías disponibles
+
+```
+📚 Libros y Lectura            🛍️ Tiendas y Ventas
+🤖 Cripto y AI                 ⚙️ Herramientas y Utils
+🎮 Juegos y Entretenimiento    🎬 Series y Películas
+🎓 Educación y Cursos          📦 Otros / Varios
+```
+
+### 📢 Publicar tu bot
+
+Publicar es **completamente gratis** y se hace en **5 pasos**:
+
+```
+1️⃣  Envías el @username de tu bot   (ej: @MiTiendaBot)
+2️⃣  Escribes un título atractivo
+3️⃣  Añades una descripción con detalles
+4️⃣  Subes una foto de portada       (opcional)
+5️⃣  Eliges la categoría
+       ↓
+     ✅ ¡Publicado!
+```
+
+**Reglas del username:** debe empezar por `@`, terminar en `bot`, contener solo letras, números y `_`, y tener entre 5 y 32 caracteres. Ej: `@MiTiendaBot`, `@CriptoSeñalesBot`.
+
+### ⚙️ Gestionar tus publicaciones
+
+Desde **Mis Publicaciones** puedes:
+
+- ✏️ **Editar el texto** (título y descripción) cuando quieras. Puedes cambiar solo un campo con `/skip`.
+- 🖼️ **Cambiar la foto** por otra, o **quitarla** por completo.
+- 🗑️ **Eliminar** la publicación cuando ya no la necesites.
+- ⭐ **Subir al Top** para que aparezca fijada arriba.
+
+### ⏱️ Ventana de edición
+
+Cada publicación puede **editarse libremente durante las primeras 24 horas**. Pasado ese tiempo queda bloqueada hasta que la renueves con **⭐ Subir al Top**.
+
+### ⭐ Subir al Top (Destacar)
+
+Si quieres que tu bot aparezca **fijado arriba** en su categoría:
+
+1. Ve a **Mis Publicaciones** → **tu bot** → **⭐ Subir al Top**.
+2. Sigue las instrucciones de pago que indique el administrador.
+3. Pulsa **✅ He Pagado** cuando lo hayas hecho.
+4. El administrador verificará el pago y activará tu destacado.
+
+**Beneficios de estar en el Top:**
+
+- Aparece primero en su categoría.
+- Vuelves a tener 24 horas de edición libre.
+- Más visibilidad → más usuarios para tu bot.
+
+### 💬 Chat con soporte
+
+Desde el menú principal tienes un **chat privado con el administrador**. Puedes enviar:
+
+- 📝 Mensajes de texto.
+- 📷 Fotos y capturas.
+- 🎥 Vídeos y GIFs.
+- 📄 Documentos.
+- 🎵 Audios y notas de voz.
+- 🎨 Stickers.
+
+Todas las respuestas te llegarán al mismo chat. El historial completo queda guardado.
+
+---
+
+## 🚀 Cómo empezar
+
+### 1. Abre el bot
+
+Pulsa este enlace desde el móvil o escritorio: **https://t.me/Tu_Storebot** y dale a **START**.
+
+### 2. Verás este menú
+
+```
+📂 Ver Directorio      ➕ Añadir mi Bot
+⚙️ Mis Publicaciones   💬 Chat con Soporte
+```
+
+### 3. Explora o publica
+
+- Si solo quieres **descubrir bots**, pulsa **📂 Ver Directorio**.
+- Si quieres **añadir el tuyo**, pulsa **➕ Añadir mi Bot** y sigue los 5 pasos.
 
 ---
 
@@ -11,137 +126,74 @@ Pulsa **⭐ Subir al Top** en tu publicación y sigue las instrucciones.
 
 | ✅ | Beneficio |
 |:-:|:--|
-| 🎯 | **Audiencia dirigida** — gente buscando bots como el tuyo |
+| 🎯 | **Audiencia dirigida** — gente que busca activamente bots |
 | ⚡ | **Publicación en 30 segundos** — sin esperas ni aprobaciones |
 | 🖼️ | **Card visual** — foto, título y descripción atractivos |
 | 🔗 | **Acceso directo** — un clic para abrir tu bot |
-| ⭐ | **Destacar en el Top** — más visibilidad con un pago simple |
-| ✏️ | **Edición libre** durante las primeras 24h |
-| 🆓 | **Publicar es completamente gratis** |
+| ⭐ | **Destacar en el Top** — más visibilidad |
+| ✏️ | **Edición libre** durante 24h |
+| 🆓 | **Publicar es 100% gratis** |
 
 ---
 
 ## 🎯 ¿Para quién es?
 
-<details>
-<summary><b>🤖 Creadores de bots</b></summary>
+**🤖 Creadores de bots**
+Muestra tus creaciones a usuarios que buscan herramientas nuevas cada día.
 
-Muestra tus creaciones a una audiencia que busca activamente herramientas. Consigue usuarios nuevos cada día.
-</details>
+**🎮 Comunidades y canales**
+Promociona tu canal, tu grupo o tu comunidad dentro de la categoría correcta.
 
-<details>
-<summary><b>🎮 Comunidades y canales</b></summary>
+**🛍️ Vendedores digitales**
+Da a conocer tu tienda, tu curso o tu servicio sin pagar nada.
 
-Promociona tu canal, tu grupo o tu comunidad dentro de una categoría relevante.
-</details>
-
-<details>
-<summary><b>🛍️ Vendedores digitales</b></summary>
-
-Enseña tu tienda, tu curso o tu servicio sin coste alguno.
-</details>
-
-<details>
-<summary><b>🔍 Usuarios curiosos</b></summary>
-
-Descubre herramientas útiles que no sabías que existían. Todo organizado por temáticas.
-</details>
+**🔍 Usuarios curiosos**
+Descubre bots útiles que no sabías que existían, todo por temáticas.
 
 ---
 
 ## ❓ Preguntas frecuentes
 
-<details>
-<summary><b>¿Es gratis publicar mi bot?</b></summary>
+**¿Publicar tiene algún coste?**
+No. Publicar es gratis y sin límite de tiempo. Solo pagas si quieres destacar tu bot en el Top.
 
-Sí, publicar es **100% gratis** y sin límite de tiempo. Solo pagas si quieres destacar tu bot en el Top de su categoría.
-</details>
+**¿Cuántos bots puedo publicar?**
+Todos los que quieras. Cada uno debe tener un @username único de Telegram.
 
-<details>
-<summary><b>¿Puedo editar mi publicación después?</b></summary>
+**¿Puedo editar mi publicación después?**
+Sí, durante las primeras 24 horas. Después solo se desbloquea renovando con ⭐ Subir al Top.
 
-Sí, durante las primeras **24 horas** puedes editar el título, la descripción y la foto. Para renovar ese plazo, usa la opción **⭐ Subir al Top**.
-</details>
+**¿Qué pasa si me equivoco al publicar?**
+Nada, puedes editar título, descripción y foto durante 24 horas. Si necesitas más, contacta con soporte.
 
-<details>
-<summary><b>¿Cuántos bots puedo publicar?</b></summary>
+**¿Qué formatos acepta el chat de soporte?**
+Texto, fotos, vídeos, GIFs, audios, notas de voz, documentos y stickers.
 
-Los que quieras. Cada bot debe tener un **@username único** de Telegram.
-</details>
+**¿Cómo contacto con el administrador?**
+Desde el menú principal, pulsa **💬 Chat con Soporte** y escribe tu mensaje.
 
-<details>
-<summary><b>¿Qué formatos puedo enviar al soporte?</b></summary>
-
-Texto, fotos, vídeos, audios, documentos, stickers y GIFs. Todo se guarda en el historial.
-</details>
-
-<details>
-<summary><b>¿Cómo contacto con el administrador?</b></summary>
-
-Desde el menú principal, pulsa **💬 Chat con Soporte** y escribe tu mensaje. Recibirás respuesta en el mismo chat.
-</details>
-
-<details>
-<summary><b>¿Qué pasa si mi bot es rechazado?</b></summary>
-
-Solo se eliminan bots que incumplan las normas de Telegram o que sean spam. Si crees que ha sido un error, contacta con soporte.
-</details>
+**¿Qué pasa si mi bot es rechazado?**
+Solo se eliminan bots que incumplan las normas de Telegram o que sean spam. Si crees que fue un error, contacta con soporte.
 
 ---
 
 ## 📜 Normas de la comunidad
 
-Para mantener el directorio útil y limpio:
+Para que el directorio siga siendo útil:
 
-- ✅ Publica bots **funcionales y activos**
-- ✅ Escribe títulos y descripciones **honestos**
-- ✅ Usa **fotos relacionadas** con el bot
-- ❌ Nada de **spam** ni contenido duplicado
-- ❌ Nada de contenido **ilegal o abusivo**
-- ❌ Nada de **estafas o phishing**
+- ✅ Publica bots **funcionales y activos**.
+- ✅ Escribe títulos y descripciones **honestos**.
+- ✅ Usa **fotos relacionadas** con el bot.
+- ❌ Nada de **spam** ni publicaciones duplicadas.
+- ❌ Nada de contenido **ilegal, abusivo o engañoso**.
+- ❌ Nada de **estafas, phishing o malware**.
 
-*El incumplimiento conlleva la eliminación de la publicación y posibles sanciones.*
-
----
-
-## 📊 El directorio hoy
-
-<div align="center">
-
-| 🤖 Bots publicados | 👥 Usuarios | 📂 Categorías | ⭐ Destacados |
-|:--:|:--:|:--:|:--:|
-| **+100** | **+500** | **8** | **Semanal** |
-
-</div>
-
-*(Cifras actualizadas periódicamente — consulta el bot para las actuales)*
+El incumplimiento conlleva la eliminación de la publicación y posibles sanciones.
 
 ---
 
-## 🔗 Enlaces rápidos
+## 🤝 ¿Listo para empezar?
 
-<div align="center">
-
-[![Abrir Bot](https://img.shields.io/badge/🚀_Abrir_el_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tu_Storebot)
-
-[![Canal](https://img.shields.io/badge/📢_Canal_de_Noticias-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tu_Canal)
-[![Soporte](https://img.shields.io/badge/💬_Soporte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tu_Storebot)
-[![Comunidad](https://img.shields.io/badge/👥_Comunidad-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tu_Grupo)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Únete al directorio y haz crecer tu bot
-
-**Pulsa START y publica el tuyo en menos de un minuto**
-
-[**🚀 ABRIR EL BOT**](https://t.me/Tu_Storebot)
-
----
+**🚀 ABRIR EL BOT → https://t.me/Tu_Storebot**
 
 *Directorio de Bots Telegram · Hecho con ❤️ para la comunidad*
-
-</div>
